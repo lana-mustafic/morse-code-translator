@@ -23,26 +23,7 @@ A clean web app that converts between text and Morse code with audio playback. B
 
 1. **Run locally:**
    ```bash
-   git clone [https://github.com/yourusername/morse-code-translator.git](https://github.com/yourusername/morse-code-translator.git)
-   cd morse-code-translator
-   open index.html
-Or use the live demo:
-[https://lana-mustafic.github.io/morse-code-translator](https://lana-mustafic.github.io/morse-code-translator)
-
-## 🚀 Quick Start
-1. **Run locally:**
-   ```bash
-   git clone [https://github.com/yourusername/morse-code-translator.git](https://github.com/yourusername/morse-code-translator.git)
-   cd morse-code-translator
-   open index.html
-   ```
-Or use the live demo:
-[https://www.google.com/search?q=https://lana-mustafic.github.io/morse-code-translator](https://www.google.com/search?q=https://lana-mustafic.github.io/morse-code-translator)
-## 🚀 Quick Start
-
-1. **Run locally:**
-   ```bash
-   git clone [https://github.com/yourusername/morse-code-translator.git](https://github.com/yourusername/morse-code-translator.git)
+   git clone [https://github.com/lana-mustafic/morse-code-translator.git](https://github.com/lana-mustafic/morse-code-translator.git)
    cd morse-code-translator
    open index.html
    ```
