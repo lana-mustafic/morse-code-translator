@@ -45,18 +45,18 @@ Or use the live demo:
    cd morse-code-translator
    open index.html
    ```
-Or use the live demo:
-https://www.google.com/search?q=https://lana-mustafic.github.io/morse-code-translator
+Or use the live demo:  
+[https://lana-mustafic.github.io/morse-code-translator](https://lana-mustafic.github.io/morse-code-translator)  
 
-##🛠️ How It Works
-JavaScript
+## 🛠️ How It Works  
 
-// Core translation function
-function textToMorse(text) {
-  return text.toUpperCase().split('')
-    .map(char => morseCode[char] || '')
-    .join(' ');
-}
+```javascript  
+// Core translation function  
+function textToMorse(text) {  
+  return text.toUpperCase().split('')  
+    .map(char => morseCode[char] || '')  
+    .join(' ');  
+}  
 Key technologies:
 
 Web Audio API for sound generation
