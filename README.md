@@ -56,21 +56,23 @@ function textToMorse(text) {
   return text.toUpperCase().split('')  
     .map(char => morseCode[char] || '')  
     .join(' ');  
-}  
-Key technologies:
+}
 
-Web Audio API for sound generation
+## 🛠️ Key Technologies
 
-CSS Variables for theme switching
+- **Web Audio API** - For sound generation
+- **CSS Variables** - Powers theme switching
+- **Clipboard API** - Enables copy functionality
 
-Clipboard API for easy copying
+## 📚 Morse Code Reference
 
-##📚 Basic Morse Reference
-Character	Morse
-A	.-
-1	.----
-Space	/
+| Character | Morse Code |
+|-----------|------------|
+| A         | .-         |
+| B         | -...       |
+| 1         | .----      |
+| Space     | /          |
 
-Export to Sheets
-##📜 License
-MIT © Lana Mustafić
+## 📜 License
+
+MIT © [Lana Mustafić](https://github.com/lana-mustafic)
