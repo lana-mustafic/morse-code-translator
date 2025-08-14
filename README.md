@@ -1,11 +1,9 @@
 # 📡 Morse Code Translator
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge&logo=vercel)](https://yourusername.github.io/morse-code-translator)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge&logo=vercel)](https://lana-mustafic.github.io/morse-code-translator)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 A clean web app that converts between text and Morse code with audio playback. Built with HTML, CSS, and JavaScript.
-
-![App Screenshot](screenshot.png) *(Add your screenshot file)*
 
 ## ✨ Features
 
