@@ -35,6 +35,7 @@ Or use the live demo:
    git clone [https://github.com/yourusername/morse-code-translator.git](https://github.com/yourusername/morse-code-translator.git)
    cd morse-code-translator
    open index.html
+   ```
 Or use the live demo:
 [https://www.google.com/search?q=https://lana-mustafic.github.io/morse-code-translator](https://www.google.com/search?q=https://lana-mustafic.github.io/morse-code-translator)
 ## 🚀 Quick Start
@@ -57,6 +58,7 @@ function textToMorse(text) {
     .map(char => morseCode[char] || '')  
     .join(' ');  
 }
+```
 
 ## 🛠️ Key Technologies
 
