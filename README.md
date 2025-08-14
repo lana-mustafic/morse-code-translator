@@ -28,18 +28,24 @@ A clean web app that converts between text and Morse code with audio playback. B
    open index.html
 Or use the live demo:
 [https://lana-mustafic.github.io/morse-code-translator](https://lana-mustafic.github.io/morse-code-translator)
-🛠️ How It Works
-javascript
+
+##🛠️ How It Works
+JavaScript
 
 // Core translation functionfunction textToMorse(text) {
   return text.toUpperCase().split('')
     .map(char => morseCode[char] || '')
-    .join(' ');}
+    .join(' ');
+}
 Key technologies:
+
 Web Audio API for sound generation
 CSS Variables for theme switching
 Clipboard API for easy copying
-📚 Basic Morse Reference
+
+##📚 Basic Morse Reference
 CharacterMorseA.-1.----Space/
-📜 License
+Export to Sheets
+
+##📜 License
 MIT © Lana Mustafić
