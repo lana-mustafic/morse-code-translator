@@ -2,7 +2,7 @@
 
 A simple web app that converts text to Morse code and vice versa.  
 
-🔗 **Live Demo:** [https://your-username.github.io/morse-code-translator/](https://your-username.github.io/morse-code-translator/)  
+🔗 **Live Demo:** [https://lana-mustafic.github.io/morse-code-translator/](https://lana-mustafic.github.io/morse-code-translator/)  
 
 ## Features  
 - Convert text to Morse code  
