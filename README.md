@@ -37,10 +37,22 @@ Or use the live demo:
    open index.html
 Or use the live demo:
 [https://www.google.com/search?q=https://lana-mustafic.github.io/morse-code-translator](https://www.google.com/search?q=https://lana-mustafic.github.io/morse-code-translator)
-🛠️ How It Works
+## 🚀 Quick Start
+
+1. **Run locally:**
+   ```bash
+   git clone [https://github.com/yourusername/morse-code-translator.git](https://github.com/yourusername/morse-code-translator.git)
+   cd morse-code-translator
+   open index.html
+   ```
+Or use the live demo:
+https://www.google.com/search?q=https://lana-mustafic.github.io/morse-code-translator
+
+##🛠️ How It Works
 JavaScript
 
-// Core translation functionfunction textToMorse(text) {
+// Core translation function
+function textToMorse(text) {
   return text.toUpperCase().split('')
     .map(char => morseCode[char] || '')
     .join(' ');
@@ -48,10 +60,17 @@ JavaScript
 Key technologies:
 
 Web Audio API for sound generation
+
 CSS Variables for theme switching
+
 Clipboard API for easy copying
-📚 Basic Morse Reference
-CharacterMorseA.-1.----Space/
+
+##📚 Basic Morse Reference
+Character	Morse
+A	.-
+1	.----
+Space	/
+
 Export to Sheets
-📜 License
-MIT © Lana Mustafić but the whole text please
+##📜 License
+MIT © Lana Mustafić
