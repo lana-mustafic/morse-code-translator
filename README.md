@@ -1,15 +1,31 @@
-# 📡 Morse Code Translator[![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge&logo=vercel)](https://yourusername.github.io/morse-code-translator)[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+# 📡 Morse Code Translator
 
-A clean web app that converts between text and Morse code with audio playback. Built with HTML, CSS, and JavaScript.![App Screenshot](screenshot.png) *(Add your screenshot file)*## ✨ Features- **Bidirectional Translation**
+[![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge&logo=vercel)](https://yourusername.github.io/morse-code-translator)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+
+A clean web app that converts between text and Morse code with audio playback. Built with HTML, CSS, and JavaScript.
+
+![App Screenshot](screenshot.png) *(Add your screenshot file)*
+
+## ✨ Features
+
+- **Bidirectional Translation**
   - Convert text to Morse code
-  - Decode Morse code back to text- **Audio Playback** 🔊
-  - Hear Morse code as beep sounds- **Modern UI**
+  - Decode Morse code back to text
+- **Audio Playback** 🔊
+  - Hear Morse code as beep sounds
+- **Modern UI**
   - Dark/Light mode toggle
-  - Clean, responsive design- **Convenience Tools**
+  - Clean, responsive design
+- **Convenience Tools**
   - Copy Morse code to clipboard
-  - Simple, intuitive interface## 🚀 Quick Start1. **Run locally:**
+  - Simple, intuitive interface
+
+## 🚀 Quick Start
+
+1. **Run locally:**
    ```bash
-   git clone [https://github.com/lana-mustafic/morse-code-translator.git](https://github.com/lana-mustafic/morse-code-translator.git)
+   git clone [https://github.com/yourusername/morse-code-translator.git](https://github.com/yourusername/morse-code-translator.git)
    cd morse-code-translator
    open index.html
 Or use the live demo:
